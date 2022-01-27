@@ -1,0 +1,5 @@
+.backgroundOne{
+    background: #ff00cc;
+    background: -webkit-linear-gradient(to right, #ff00cc, #333399); 
+    background: linear-gradient(to right, #ff00cc, #333399); 
+}
